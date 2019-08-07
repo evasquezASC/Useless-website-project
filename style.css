@@ -1,0 +1,13 @@
+#top {
+  text-align: center;
+  justify-content: center;
+  
+  padding-top: 10%;
+  padding-bottom: 10%;
+  background-color: #ea526f;
+}
+
+body {
+  background-color: #27bfc2;
+  color: #ffffff;
+}
